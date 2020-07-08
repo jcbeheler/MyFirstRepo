@@ -1,2 +1,1 @@
-This is some text
-Adding some test to File1
+adding some text to the file
